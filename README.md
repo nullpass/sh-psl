@@ -3,9 +3,8 @@ sh-psl
 
 Public-able code, /bin/sh
 
-This repo contains shell code I've written which is not covered by an NDA and is safe for publish. 
-
-As with all code, though, use at your own risk.
+This repo contains shell code I've written which is not covered by an NDA and is safe for publish. <br>
+**As with all code, though, use at your own risk.**
 
 
 fixPerms.sh - Fix file and directory permissions of a web-accessible path.
